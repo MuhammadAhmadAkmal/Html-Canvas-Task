@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    height: 15vh;
+    background-color: #8EE4AF;
+}
+
+.main-canvas {
+    border: 1px solid gray;
+    height: 300px;
+    width: 300px;
+}
+
+.main {
+    min-height: 70vh;
+    background-color: #EDF5E1;
+}
+
+.footer {
+    height: 15vh;
+    background-color: #8EE4AF;
+}
